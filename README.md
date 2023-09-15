@@ -1,1 +1,1 @@
-#kasper-one-page-template
+kasper-one-page-template
